@@ -3,8 +3,8 @@
 21.08.2023
 
 Pliki: 
-backcopy - algorytm z backtestem
-model_09_07 - model sieci
+backcopy - algorytm z backtestem;
+model_09_07 - model sieci;
 Wykresy_kerelacja, Market_depth - wykresy których użyłem w drugim rozdziale
 
 Po napisaniu modelu (model_09_07) zauwazylem, że co prawda wygląda jakby przewidywał następną cenę, to w przypadku jak chcemy aby przewidywał różnicę 
