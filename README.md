@@ -1,6 +1,7 @@
 # Praca_magisterska
 
 21.08.2023
+
 Pliki: 
 backcopy - algorytm z backtestem
 model_09_07 - model sieci
